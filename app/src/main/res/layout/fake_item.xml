@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:id="@+id/left_massege"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="100dp"
+        android:background="@drawable/left_item"
+        android:padding="5dp"
+        android:textColor="@color/Darkgray"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        tools:text="sadgsakvbsfndklvbndfghgdhmdmdghmdfgnfgdfhndhndhdfnshsdfsaklbnkladfnklbnadfkln" />
+
+    <TextView
+        android:id="@+id/right_massege"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/right_item"
+        android:padding="5dp"
+        android:textColor="@color/Darkyellow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/left_massege"
+        tools:text="sadgsakvbsfndklvbndfghgdhmdmdghmdfgnfgdfhndhndhdfnshsdfsaklbnkladfnklbnadfkln" />
+
+
+    <!--    <include-->
+<!--        android:id="@+id/include"-->
+<!--        layout="@layout/left_chat" />-->
+
+<!--    <include-->
+<!--        layout="@layout/right_chat"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/include" />-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/bg_btn.xml" value="0.19375" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/camera.xml" value="0.19375" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/left_item.xml" value="0.19375" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/right_item.xml" value="0.19375" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/send.xml" value="0.19375" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_chat.xml" value="0.25" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_home.xml" value="0.18" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/layout/activity_regiter.xml" value="0.2" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fake_item.xml" value="0.22" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_chat.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_user.xml" value="0.15520833333333334" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/layout/fragment_users.xml" value="0.18" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/layout/item_uesr.xml" value="0.18" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/layout/left_chat.xml" value="0.25" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/layout/right_chat.xml" value="0.22" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/menu/change_image.xml" value="0.22" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/menu/main_menu.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/eslam/AndroidStudioProjects/ChatApp/app/src/main/res/menu/menu.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.12" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
